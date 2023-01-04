@@ -1,0 +1,248 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics (ID=0x4e61)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\I18N.dll (this message is harmless)
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\I18N.West.dll (this message is harmless)
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\cInput.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\cInput.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\ES2.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\ES2.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\MoodkieSecurity.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\MoodkieSecurity.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\PlayMaker.dll into Unity Child Domain
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\HOTween.dll (this message is harmless)
+Loading C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\HOTween.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+desktop: 1280x960 60Hz; virtual: 1280x960 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\0Harmony.dll (this message is harmless)
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\MSCLoader.dll (this message is harmless)
+Shader 'Hidden/Nature/Tree Creator Leaves Optimized': dependency 'BillboardShader' shader 'Hidden/Nature/Tree Creator Leaves Rendertex' not found
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Setting to default shader.
+Shader 'Hidden/Nature/Tree Creator Leaves Optimized': dependency 'BillboardShader' shader 'Hidden/Nature/Tree Creator Leaves Rendertex' not found
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Setting to default shader.
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4cbc -> priority: 1 
+LoadLevel: MainMenu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.752500 ms
+
+[MSCLoader Init]
+Launch arguments:
+C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar.exe -logFile C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\output_log.txt
+MSCLoader Message: Loading core assets...
+MSCLoader Message: Loading core assets completed!
+Detected As: [INTERNAL] Console (ID: MSCLoader_Console) v1.2.9
+MSCLoader Message: Loading Asset: console.unity3d...
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\System.Data.dll (this message is harmless)
+Platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\mysummercar_Data\Managed\System.Xml.dll (this message is harmless)
+Detected As: [INTERNAL] Mod Menu (ID: MSCLoader_Settings) v1.2.9
+MSCLoader Message: Loading Asset: settingsui.unity3d...
+MSCLoader Message: ModLoader v1.2.9 ready
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\References\MSCLoader.Features.dll (this message is harmless)
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\References\MSCLoader.Helpers.dll (this message is harmless)
+MSCLoader ERROR: Check for new version failed with error: Error: NameResolutionFailure
+System.Exception: Error: NameResolutionFailure
+  at MSCLoader.ModLoader.VersionCheckCompleted (System.Object sender, System.Net.DownloadStringCompletedEventArgs e) [0x00000] in <filename unknown>:0 
+MSCLoader Message: Hello Emulator!!
+MSCLoader ERROR: Steam client doesn't exists.
+System.Exception: [EMULATOR] Do What You Want, Cause A Pirate Is Free... You Are A Pirate!
+  at MSCLoader.ModLoader.ContinueInit () [0x00000] in <filename unknown>:0 
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\!!Ref_Helpers.dll (this message is harmless)
+Detected As: MSCLoader.Helpers (ID: Ref_Helpers) v1.0.8
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\!Ref_Features.dll (this message is harmless)
+Detected As: MSCLoader.Features (ID: Ref_Features) v1.0.8
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\AthlonsTweaksPack.dll (this message is harmless)
+Detected As: Athlon's Tweaks Pack (ID: AthlonsTweaksPack) v1.2.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Attachable Roofrack.dll (this message is harmless)
+Detected As: Attachable Roofrack (ID: Attachable_Roofrack) v1.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Better Suspension For Hayosiko.dll (this message is harmless)
+Detected As: Better Suspension for the Hayosiko (ID: BetterHayosikoSuspension) v2.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\BetterFPSCounter.dll (this message is harmless)
+Detected As: BetterFPSCounter (ID: BetterFPSCounter) v1.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\CarryMore.dll (this message is harmless)
+Detected As: Backpack (ID: CarryMore) v1.4.3
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\CassetteTapes.dll (this message is harmless)
+Detected As: Cassette Tapes (ID: CassetteTapes) v2.1.3
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\CDPlayer.dll (this message is harmless)
+Detected As: CDPlayer Enhanced (ID: CDPlayer) v1.4.5
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\ChaseCamera.dll (this message is harmless)
+Detected As: ChaseCamera (ID: ChaseCamera) v1.4.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\CheatBox.dll (this message is harmless)
+Detected As: CheatBox (ID: CheatBox) v1.2.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\closepit.dll (this message is harmless)
+Detected As: closepit (ID: closepit) v1.1.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\CrimeDisabled.dll (this message is harmless)
+Detected As: CrimeDisabled (ID: CrimeDisabled) v0.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\DatsunBranding.dll (this message is harmless)
+Detected As: DatsunBranding (ID: DatsunBranding) v1.2
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\DeliveryJobs.dll (this message is harmless)
+Detected As: Delivery Jobs (ID: DeliveryJobs) v1.3.2
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\DigitalSpeedo.dll (this message is harmless)
+Detected As: DigitalSpeedo (ID: DigitalSpeedo) v1.3
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\DirtMod(Revived).dll (this message is harmless)
+Detected As: DirtModRevived (ID: DirtModRevived) v1.0.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\DisplayBoltSizes.dll (this message is harmless)
+Detected As: Display Bolt Size (ID: DisplayBoltSize) v1.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Dust clouds.dll (this message is harmless)
+Detected As: Dust clouds (ID: Dust_clouds) v2.4
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\ExtraTranslate.dll (this message is harmless)
+Detected As: ExtraTranslate (ID: ExtraTranslate) v1.1.5
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\FifthGear.dll (this message is harmless)
+Detected As: Fifth Gear (ID: FifthGear) v0.6
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Fittan Radio.dll (this message is harmless)
+Detected As: Fittan Radio (ID: Fittan_Radio) v1.1a
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\FogLights2.dll (this message is harmless)
+Detected As: Fog Lights 2 (ID: foglights2) v2.0.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\GrabAnything.dll (this message is harmless)
+Non platform assembly: data-0000000020E19DC0 (this message is harmless)
+Fallback handler could not load library C:/Users/MINEDUCYT/Downloads/juegos y ya/My.Summer.Car.v2022.12.06/mysummercar_Data/Mono/data-0000000020E19DC0.dll
+Detected As: GrabAnything (ID: GrabAnything) v1.4.3
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\HandBrakeMod.dll (this message is harmless)
+Detected As: Handbrake Mod (ID: handbrakemod) v1.4
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\HayoPickup.dll (this message is harmless)
+Detected As: Hayosiko Utility Pickup (ID: hayopickup) v1.01
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Hayosiko4x4.dll (this message is harmless)
+Detected As: Hayosiko4x4 (ID: Hayosiko4x4) v2.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\HayosikoParkingLights.dll (this message is harmless)
+Detected As: HayosikoParkingLights (ID: HayosikoParkingLights) v1.01
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\LanguageFramework.dll (this message is harmless)
+Detected As: LanguageFramework (ID: LanguageFramework) v1.2.4
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Lantern.dll (this message is harmless)
+Detected As: Lantern (ID: Lantern) v1.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\LFTTFix.dll (this message is harmless)
+Detected As: LFTTFix (ID: LFTTFix) v1.0.6
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\LightsOnSwitches.dll (this message is harmless)
+Detected As: LightsOnSwitches (ID: LightsOnSwitches) v1.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\ModsShop.dll (this message is harmless)
+Detected As: Mods Shop (shop for mods) (ID: ModsShop) v1.0.2
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\MokiaTownsman.dll (this message is harmless)
+Detected As: Mokia Townsman Phone (ID: MokiaTownsman) v1.3
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\MOP.dll (this message is harmless)
+Detected As: MODERN OPTIMIZATION PLUGIN (ID: MOP) v3.10.4
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\MosquitoKill.dll (this message is harmless)
+Detected As: MosquitoKill (ID: MosquitoKill) v1.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\MscNoclip.dll (this message is harmless)
+Non platform assembly: data-0000000020D84480 (this message is harmless)
+Fallback handler could not load library C:/Users/MINEDUCYT/Downloads/juegos y ya/My.Summer.Car.v2022.12.06/mysummercar_Data/Mono/data-0000000020D84480.dll
+Detected As: Noclip (Flymod) (ID: MscNoclip) v1.4.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\NewFonts.dll (this message is harmless)
+Detected As: New Fonts (ID: NewFonts) v1.0.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\OffroadHayosiko.dll (this message is harmless)
+Detected As: OffroadHayosiko (ID: OffroadHayosiko) v2.0.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\ParkingLights.dll (this message is harmless)
+Detected As: Parking Lights (ID: ParkingLights) v0.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\PhoneHolderForTangerine.dll (this message is harmless)
+Detected As: Phone Holder For Tangerine (ID: PhoneHolderForTangerine) v1.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Preserve steering angle.dll (this message is harmless)
+Detected As: Preserve steering angle (ID: Preserve_steering_angle) v2.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\PunchAnyone.dll (this message is harmless)
+Non platform assembly: data-0000000020D85CA0 (this message is harmless)
+Fallback handler could not load library C:/Users/MINEDUCYT/Downloads/juegos y ya/My.Summer.Car.v2022.12.06/mysummercar_Data/Mono/data-0000000020D85CA0.dll
+Detected As: PunchAnyone (ID: PunchAnyone) v1.6.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\RallyLights.dll (this message is harmless)
+Detected As: Rally Spotlights (ID: RallyLights) v2.2
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Rear_marker.dll (this message is harmless)
+Detected As: Rear marker (ID: Rear_marker) v1.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\RetroRoofRack.dll (this message is harmless)
+Detected As: Retro roof rack (ID: RetroRoofRack) v1.0.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\rusckoradio.dll (this message is harmless)
+Detected As: rusckoradio (ID: rusckoradio) v1.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\RuscoFixer.dll (this message is harmless)
+Detected As: Ruscko Fixer (ID: RuscoFixer) v1.4
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Satsuma X-1.dll (this message is harmless)
+Detected As: Satsuma X-1 (ID: SatsumaX_1) v1.2.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\SatsumaTransmissionSwitch.dll (this message is harmless)
+Detected As: Satsuma Transmission Switch (ID: SatsumaTransmissionSwitch_Drifts) v1.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\SatsumaTuner95.dll (this message is harmless)
+Detected As: SatsumaTuner95 (ID: SatsumaTuner95) v0.3
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\SlowerSpoilage.dll (this message is harmless)
+Detected As: SlowerSpoilage (ID: SlowerSpoilage) v1.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Tables And Chairs.dll (this message is harmless)
+Detected As: Tables And Chairs (ID: TablesAndChairs) v1.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\TangerinePickup.dll (this message is harmless)
+Detected As: TANGERINE FZ-120 PICKUP (ID: TangerinePickup) v1.4
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\TimeManager.dll (this message is harmless)
+Detected As: TimeManager (ID: TimeManager) v1.1
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\TireSmoke.dll (this message is harmless)
+Detected As: TireSmoke (ID: TireSmoke) v1.0
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Toiveradio Enhanced.dll (this message is harmless)
+Detected As: Toiveradio Enhanced (ID: Toiveradio_Enhanced) v2.6
+Non platform assembly: C:\Users\MINEDUCYT\Downloads\juegos y ya\My.Summer.Car.v2022.12.06\Mods\Windows Rear.dll (this message is harmless)
+Detected As: Satsuma Rear Windows (ID: Windows_Rear) v1.0
+MSCLoader Message: Loaded 58 mods!
+
+Can't get buildID compare: Steamworks is not initialized.
+Can't get buildID compare: Steamworks is not initialized.
+Can't get buildID compare: Steamworks is not initialized.
+System.ArgumentException: There must be 2, 3 or 4 components in the version string.
+  at System.Version..ctor (System.String version) [0x00000] in <filename unknown>:0 
+  at MSCLoader.ModMetadata.ReadMetadata (MSCLoader.Mod mod) [0x00000] in <filename unknown>:0 
+System.IndexOutOfRangeException: Array index is out of range.
+  at MSCLoader.ModMetadata.ReadMetadata (MSCLoader.Mod mod) [0x00000] in <filename unknown>:0 
+Can't get buildID compare: Steamworks is not initialized.
+Can't get buildID compare: Steamworks is not initialized.
+Can't get buildID compare: Steamworks is not initialized.
+MSCLoader Message: Set translate
+MSCLoader Message: [MOP] Connection error. Unable to reach the server. Either check your connection, or the server is down.
+MSCLoader Message: [MOP] Found 4 rule files!
+MSCLoader Message: [MOP] Loading AthlonsTweaksPack.mopconfig...
+MSCLoader Message: [MOP] Loading CDPlayer.mopconfig...
+MSCLoader Message: [MOP] Loading OffroadHayosiko.mopconfig...
+MSCLoader Message: [MOP] Loading TangerinePickup.mopconfig...
+MSCLoader Message: [MOP] Loading 4/4 rule files done!
+MSCLoader Message: [MOP] Removed attributes from save file.
+MSCLoader Message: [MOP] MOP hasn't found any problems with your save :)
+MSCLoader Message: MOP 3.10.4 initialized!
+MSCLoader Message: Loading Asset: fonts.unity3d...
+Windows 10 (10.0.19045) 64bit
+
+Unloading 957 unused Assets to reduce memory usage. Loaded Objects now: 5302.
+Total: 9.306700 ms (FindLiveObjects: 0.478200 ms CreateObjectMapping: 0.294600 ms MarkObjects: 8.144300 ms  DeleteObjects: 0.374200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5302.
+Total: 8.596600 ms (FindLiveObjects: 0.542000 ms CreateObjectMapping: 0.192300 ms MarkObjects: 7.845600 ms  DeleteObjects: 0.015200 ms)
+
+MSCLoader ERROR: Failed to check for mods updates
+MSCLoader ERROR: Error: NameResolutionFailure
+System.Net.WebException: Error: NameResolutionFailure
+  at System.Net.HttpWebRequest.EndGetRequestStream (IAsyncResult asyncResult) [0x00000] in <filename unknown>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00000] in <filename unknown>:0 
+  at System.Net.WebClient.UploadValuesCore (System.Uri uri, System.String method, System.Collections.Specialized.NameValueCollection data, System.Object userToken) [0x00000] in <filename unknown>:0 
+  at System.Net.WebClient.<UploadValuesAsync>m__14 (System.Object state) [0x00000] in <filename unknown>:0 
+MSCLoader ERROR: Failed to check for mods updates
+MSCLoader ERROR: Error: NameResolutionFailure
+System.Net.WebException: Error: NameResolutionFailure
+  at System.Net.HttpWebRequest.EndGetRequestStream (IAsyncResult asyncResult) [0x00000] in <filename unknown>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00000] in <filename unknown>:0 
+  at System.Net.WebClient.UploadValuesCore (System.Uri uri, System.String method, System.Collections.Specialized.NameValueCollection data, System.Object userToken) [0x00000] in <filename unknown>:0 
+  at System.Net.WebClient.<UploadValuesAsync>m__14 (System.Object state) [0x00000] in <filename unknown>:0 
